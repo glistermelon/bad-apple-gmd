@@ -36,13 +36,9 @@ If you want more details, go read the video description. Admittedly, I didn't re
 
 #### bombie's version (ASCII)
 
-**Video:** [YouTube](https://www.youtube.com/watch?v=a2WQQXOzzg8)
-**Details:** [GitHub](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2lxdWQ5LUxsVDJIX0paYjhSUHJhVm9nZFVwQXxBQ3Jtc0tuMWRvUVppQTlDbkp4cDV2Z243Yjc3c25HeS1XSkZSblctY2ttOXlBal9QcE5aeUdSbkZKMmFjb19QbUVNcm5SSjNKUVpvTjFUV1o4VFRRRnROSzRVS1VBM25LVUhGWG1yVFpVdVhKN0liSVNVdWI1WQ&q=https%3A%2F%2Fgithub.com%2Fitsmebombie%2Fascii-video&v=a2WQQXOzzg8)
-**Created:** March 2023 (GD 2.1)
+https://www.youtube.com/watch?v=boeD3chxteo
 
-From what I understand, this uses SPWN's functionality for printing text to create an animation. But, I have no idea what approach spu7nix took for printing in SPWN so I honestly don't really know how it works.
-
-Once again, the primary limitation is resolution, but FPS should be good. It's seems obvious that the goal of this project is more about the cool ASCII art implementation than trying to accurately render the video, of course, but I still thought it's worth including here.
+[TODO description here]
 
 #### riorio805's version (quads)
 
