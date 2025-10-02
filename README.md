@@ -1,5 +1,10 @@
 # Bad Apple in Geometry Dash
 
+## Level File
+
+I can't upload it to github because it's like 140 MB (skull) but [here it is](https://drive.google.com/file/d/1p7-9UsKvHM5wmKNTL4saLkuSuEaYN3rJ/view?usp=sharing).
+Note that you usually have to wait a minute or two for it to start after you press play, during which time the window will be unresponsive (which means, on Windows, if you click too much or something, it'll crash).
+
 ## Overview
 
 The primary goal for this project was to create a version of Bad Apple in Geometry Dash that was satisfy these three goals:
