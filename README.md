@@ -34,7 +34,7 @@ The obvious drawback to this method is that the resolution is very limited. Howe
 
 If you want more details, go read the video description. Admittedly, I didn't read it; I'm just speculating all over the place.
 
-#### bombie's version (ASCII)
+#### bombie's version (IDK)
 
 https://www.youtube.com/watch?v=boeD3chxteo
 
