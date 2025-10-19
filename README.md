@@ -143,3 +143,5 @@ Pulse triggers are currently stopped using a stop trigger and a control ID. One 
 ## Tracing lag
 
 Most of the lag can be traced to `GJBaseGameLayer::updateVisibility`, but I've looked over the decompilation and it doesn't seem like there's much I can do about it.
+
+Recently (editing on 10/19/2025), I have briefly considered the idea of grouping rectangular sections of the canvas that are all the same color for some period of time into a single object. This could reduce the lag, since it is primarily due to on-screen object handling. However, this would drive the already quite large object count upwards. I'm not really super interested in testing this right now, though. I might try it in the future but if anyone else wants to take a crack at it, please do, and tell me how it goes!
